@@ -24,3 +24,15 @@ pre {
   background: #fff;
   box-shadow: 2px 2px 7px rgba(0,0,0,0.1);
 }
+form {
+  width: 600px;
+  margin: 1em auto;
+  box-shadow: 5px 5px 15px rgba(0,0,0,0.2);
+  padding: 10px;
+  background: #f0f0f7;
+  font-family: serif;
+}
+form table {
+  width: 100%;
+
+}
